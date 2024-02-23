@@ -1,5 +1,3 @@
-TMDB API key: c0aaa22a3ec179aeff13adbfc8ac8505
-
 pipeline{
     agent any
     tools{
